@@ -1,2 +1,2 @@
-# smashBall
-3D
+# 3D Graphics
+Build graphics with points
